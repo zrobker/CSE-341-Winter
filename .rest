@@ -2,3 +2,9 @@ GET http://localhost:3000 HTTP/1.1
 
 ###
 GET https://zachrobker341.onrender.com HTTP/1.1
+
+###
+GET http://localhost:8080/all HTTP/1.1
+
+###
+GET http://localhost:8080/:id HTTP/1.1

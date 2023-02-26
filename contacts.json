@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Sarah",
+      "lastName": "Robker",
+      "email": "sarahrobker@hotmail.com",
+      "favoriteColor": "Pink",
+      "birthday": "09/24/96"
+    },
+    "contact2": {
+      "firstName": "Jessie",
+      "lastName": "Bowen",
+      "email": "jessiebowen@gmail.com",
+      "favoriteColor": "Green",
+      "birthday": "04/01/92"
+    },
+    "contact3": {
+      "firstName": "Emilio",
+      "lastName": "Ibarra",
+      "email": "emilioibarra@outlook.com",
+      "favoriteColor": "Blue",
+      "birthday": "11/24/94"
+    }
+  }
